@@ -1,0 +1,45 @@
+.head_content img{
+	width: 100%;
+}
+.head_content table{
+
+	font-family: monospace;
+	font-size: 18px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	margin-top: 1em;
+}
+#bio{
+	font-family: monospace;
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: center;
+
+}
+#info{
+	font-family: monospace;
+	font-size: 20px;
+	text-align: center;
+}
+.middle_content img{
+	display: inline-block;
+	margin-top: 2em;
+}
+.middle_content{
+	margin-left: 2em;
+	margin-right: 2em;
+	text-align: center;
+}
+#contact{
+	font-family: monospace;
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: center;
+	margin-top: 1em;
+}
+.bottom_content p{
+	font-family: monospace;
+	font-size: 20px;
+	text-align: center;
+}
